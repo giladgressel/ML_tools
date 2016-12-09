@@ -3,14 +3,16 @@
 #### [Markdown Help](https://athena.brynmawr.edu/jupyter/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb)
 
 ## Cells
-Every cell can be either Code or Markdown, "shift-enter" will execute the cells.
-The difference between "command" mode and "edit" mode
-If you look at the jupyter shortcuts, you will see something called (command).  What is that?  Whenever you are in jupyter, you are always in one of two modes.  Command mode vs Edit mode.  How can you tell the difference?
+Every cell can be either Code or Markdown, `shift-enter` will execute the cells.
 
-## Edit Mode - Green
+###  "Command" mode and "Edit" mode
+
+If you look at the jupyter shortcuts, you will see something called `command`. Whenever you are in jupyter, you are always in one of two modes, **Command** or **Edit**
+
+#### Edit Mode - Green
 ![Green Mode](imgs/green-command.png)
 
-## Command Mode - Blue
+#### Command Mode - Blue
 ![Blue mode](imgs/blue-command.png)
 
 Command mode is always in blue around the cell.  Note the pencil is missing also.  You can get to command mode by pressing "esc"
