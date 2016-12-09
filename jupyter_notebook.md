@@ -11,7 +11,7 @@ If you look at help >> keyboard shortcuts, you will get all the shortcuts.
 
 ![shortcuts](imgs/keyboard_shortcuts.png)
 
-If you look at the jupyter shortcuts, you will see something called `command`. Whenever you are in jupyter, you are always in one of two modes, `Command` or `Edit`
+#### Whenever you are in jupyter, you are always in one of two modes, `Command` or `Edit`
 
 #### `Edit` Mode - Green
 ![Green Mode](imgs/green-command.png)
