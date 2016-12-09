@@ -7,34 +7,38 @@ Every cell can be either Code or Markdown, "shift-enter" will execute the cells.
 The difference between "command" mode and "edit" mode
 If you look at the jupyter shortcuts, you will see something called (command).  What is that?  Whenever you are in jupyter, you are always in one of two modes.  Command mode vs Edit mode.  How can you tell the difference?
 
-Edit Mode - Green
+## Edit Mode - Green
+![Green Mode](imgs/green-command.png)
 
-![Green Mode](
-
-Command Mode - Blue
-CarND > Jupyter Notebook > image2016-10-28 16:51:38.png
+## Command Mode - Blue
+![Blue mode](imgs/blue-command.png)
 
 Command mode is always in blue around the cell.  Note the pencil is missing also.  You can get to command mode by pressing "esc"
+
 If you look at help >> keyboard shortcuts, you will get all the shortcuts.
-CarND > Jupyter Notebook > image2016-10-28 16:58:22.png
+
+![shortcuts](imgs/keyboard_shortcuts.png)
+
 There are more, but... you can find them easily enough.
 
 You can interact with your OS, as if it was a terminal session
-CarND > Jupyter Notebook > image2016-10-28 16:43:47.png
-CarND > Jupyter Notebook > image2016-10-28 16:44:58.png
+![ls](imgs/ls.png)
+![pwd](imgs/pwd.png)
 
-Tab
+## Tab
 Autocomplete, try it out, you can use it almost everywhere.
 Here we see tab giving us methods and attributes for an object.
-CarND > Jupyter Notebook > image2016-10-28 16:13:31.png
+![tab-attr](imgs/tab.png)
 
 But tab can also be used for imports
-CarND > Jupyter Notebook > image2016-10-28 16:17:39.png
+![tab-imports](imgs/tab_imports)
 
 Or completing variable names that you've type out before
-CarND > Jupyter Notebook > image2016-10-28 16:19:50.png
+![tab-variable-names](imgs/tab_variables.png)
+
 Note, I only typed the first two letters so there was ambiguity, hence the drop down menu for me.  But if you type enough, it will just autocomplete it.
-Shift-tab
+
+## Shift-tab
 This will show you the documentation for whatever data type are you working with.  Example:
 CarND > Jupyter Notebook > image2016-10-28 15:59:40.png
 
