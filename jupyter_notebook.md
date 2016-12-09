@@ -9,11 +9,7 @@ If you look at the jupyter shortcuts, you will see something called (command).  
 
 Edit Mode - Green
 
-!
-
-Edit mode always has GREEN around the cell, and note the little pencil which I highlighted.  You are in edit mode whenever you click inside a cell
-
-
+![Green Mode](
 
 Command Mode - Blue
 CarND > Jupyter Notebook > image2016-10-28 16:51:38.png
