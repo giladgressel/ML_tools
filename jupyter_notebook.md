@@ -5,14 +5,12 @@
 ## Cells
 Every cell can be either Code or Markdown, `shift-enter` will execute the cells.
 
-###  "Command" mode and "Edit" mode
+If you look at the jupyter shortcuts, you will see something called `command`. Whenever you are in jupyter, you are always in one of two modes, `Command` or `Edit`
 
-If you look at the jupyter shortcuts, you will see something called `command`. Whenever you are in jupyter, you are always in one of two modes, **Command** or **Edit**
-
-#### Edit Mode - Green
+#### `Edit` Mode - Green
 ![Green Mode](imgs/green-command.png)
 
-#### Command Mode - Blue
+#### `Command` Mode - Blue
 ![Blue mode](imgs/blue-command.png)
 
 Command mode is always in blue around the cell.  Note the pencil is missing also.  You can get to command mode by pressing "esc"
@@ -23,8 +21,13 @@ If you look at help >> keyboard shortcuts, you will get all the shortcuts.
 
 There are more, but... you can find them easily enough.
 
-You can interact with your OS, as if it was a terminal session
+## Jupyter is running a live python intrepreter. You can interact with your OS, as if it was a terminal session
+`ls` 
+
 ![ls](imgs/ls.png)
+
+`pwd`
+
 ![pwd](imgs/pwd.png)
 
 ## Tab
