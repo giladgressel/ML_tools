@@ -42,7 +42,7 @@ Here we see tab giving us methods and attributes for an object.
 
 But tab can also be used for imports
 
-![tab-imports](imgs/tab_imports)
+![tab-imports](imgs/tab_imports.png)
 
 Or completing variable names that you've type out before
 
