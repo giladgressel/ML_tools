@@ -104,4 +104,4 @@ You can also add modifiers to Whos.  Here I search for DataFrames only.
 
 ### A Useful Trick to Hide Memory Locations
 
-![memory-hide](img/hide_memory.png)
+![memory-hide](imgs/hide_memory.png)
