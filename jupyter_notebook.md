@@ -35,7 +35,7 @@ Command mode is always in blue around the cell.  Note the pencil is missing also
 ![pwd](imgs/pwd.png)
 
 ## Tab
-Autocomplete, try it out, you can use it almost everywhere.
+Tab provides us with autocomplete! Try it out, you can use it almost everywhere.
 Here we see tab giving us methods and attributes for an object.
 ![tab-attr](imgs/tab.png)
 
@@ -49,36 +49,44 @@ Note, I only typed the first two letters so there was ambiguity, hence the drop 
 
 ## Shift-tab
 This will show you the documentation for whatever data type are you working with.  Example:
-CarND > Jupyter Notebook > image2016-10-28 15:59:40.png
+![shift-tab](imgs/shift-tab.png)
 
 If we are looking at a method, it will tell the doc string for the method.
-CarND > Jupyter Notebook > image2016-10-28 16:1:28.png
+![methods](imgs/shift-tab-methods.png)
 
 This gets really useful when we starting using complicated API that has lots of inputs or parameters.
-CarND > Jupyter Notebook > image2016-10-28 16:4:40.png
+![apis](imgs/shift-tab-params.png)
+
 Oh, but I know there is more than that!  So.. let me just press shift-tab another time and it will give me more information
-CarND > Jupyter Notebook > image2016-10-28 16:6:9.png
+![more](imgs/shift-tab-more.png)
 
 Note that the above picture has a scroll bar, which means we can scroll on that documentation!
 Wait, now when I want to type in my arguments, I can't remember what they refer to.  I want the documentation to stay for me, so I can refer to it as I type in my arguments. Guess what? You guess!
 Hit shift-tab three times in a row until you see the clock!  The clock will keep it popped it out even as you type
-CarND > Jupyter Notebook > image2016-10-28 16:9:42.png
+![three](imgs/shift-tab-three-times.png)
+
 Sigh, still not enough?  Fine, just hit shift-tab 4 times and it will pop out at the bottom of your screen, in a semi-separate window
-CarND > Jupyter Notebook > image2016-10-28 16:10:57.png
+![four](imgs/shift-tab-4times.png)
+
 I've highlighted the controls for this pop out.  You can raise and lower it by dragging on the middle button.  You can close the window or pop it out with the controls in the upper right corner.
 
-Something Totally Crazy – Copy Pasting Code Examples
+## Something Totally Crazy – Copy Pasting Code Examples
 So you are reading some documentation, and want to follow along with their example. Like this one.
-CarND > Jupyter Notebook > image2016-10-28 16:24:10.png
+![code-sample](imgs/copy-paste-code-samples.png)
+
 But you really don't wanna type out all those pandas initialization.. No problem you can literally copy paste it!
-CarND > Jupyter Notebook > image2016-10-28 16:26:18.png
+![itworks](imgs/itworks.png)
 
 This doesn't always work perfectly, but generally it's worth trying.
 
-Some magic ipython commands
+##  Magic ipython commands
 So, you've been hacking at this script for awhile and you need to use some variables you iniatilized awhile ago, but you can't remember what it's called.  Sick of scrolling up?
-CarND > Jupyter Notebook > image2016-10-28 16:28:17.png
+![whos](imgs/whos.png)
+
 Note:  `whos` only works when it's the only command in the cell block.
+
 You can also add modifiers to Whos.  Here I search for DataFrames only.
-CarND > Jupyter Notebook > image2016-11-4 14:1:42.png
-A Useful Trick to Hide Memory Locations
+![whos-obj](imgs/whos_dataframe.png)
+
+### A Useful Trick to Hide Memory Locations
+![memory-hide](img/hide_memory.png)
