@@ -63,12 +63,13 @@ This gets really useful when we starting using complicated API that has lots of 
 
 ![apis](imgs/shift-tab-params.png)
 
-Oh, but I know there is more than that!  So.. let me just press shift-tab another time and it will give me more information
+Oh, but I know there is more **documentation** than that!  So.. let me just press shift-tab **another** time and it will give me more information
 
 ![more](imgs/shift-tab-more.png)
 
 Note that the above picture has a scroll bar, which means we can scroll on that documentation!
-Wait, now when I want to type in my arguments, I can't remember what they refer to.  I want the documentation to stay for me, so I can refer to it as I type in my arguments. Guess what? You guess!
+Wait, now when I want to type in my arguments, I can't remember what they refer to.  
+
 Hit shift-tab three times in a row until you see the clock!  The clock will keep it popped it out even as you type
 
 ![three](imgs/shift-tab-three-times.png)
