@@ -1,4 +1,7 @@
 # A Guide to Jupyter Notebooks
+
+So, I've noticed that while everyone says "use jupyter!" there really aren't that many good guides out there.  I used jupyter notebooks for about 1-2 years before I learned some of these tricks, so I thought I'd write up a quick guide, to help others out.  Of course this is not an exhaustive list, but I think it gives you the most important tools you need to use jupyter effectively.
+
 #### [Hotkeys](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 #### [Markdown Help](https://athena.brynmawr.edu/jupyter/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb)
 
